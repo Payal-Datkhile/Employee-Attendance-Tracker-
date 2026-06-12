@@ -22,7 +22,8 @@ No manual checking needed — everything updates automatically when new attendan
 2. <img width="1191" height="886" alt="image" src="https://github.com/user-attachments/assets/0f0e19a9-71a7-430b-bd45-a82c19197160" />
 
 3. Employee-wise late summary with HR alerts
-4. 
+4. <img width="992" height="778" alt="image" src="https://github.com/user-attachments/assets/242dbeef-ca9b-4661-878b-a41e63d31526" />
+
 5. Overall summary KPIs
 
 ## ⚙️ How It Works
