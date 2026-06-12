@@ -21,7 +21,8 @@ No manual checking needed — everything updates automatically when new attendan
 1. Daily attendance log with conditional formatting (red = late, green = on time)
 2. 
 3. Employee-wise late summary with HR alerts
-4. Overall summary KPIs
+4. https://github.com/Payal-Datkhile/Employee-Attendance-Tracker-/blob/main/Employee-wise%20late%20summary%20with%20HR%20alerts.png?raw=true
+5. Overall summary KPIs
 
 ## ⚙️ How It Works
 
